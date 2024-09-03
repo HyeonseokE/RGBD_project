@@ -11,6 +11,6 @@ annotation.json inner 10m:[Download Link](https://drive.google.com/drive/folders
 train_annotation.json:[Download Link](https://drive.google.com/drive/folders/1NwBaAkxJxcq9g4KdaeE-BI4E4gwvWm9Q?usp=drive_link/synscape_train_annotation.json)  
 test_annotation.json:[Download Link](https://drive.google.com/drive/folders/1NwBaAkxJxcq9g4KdaeE-BI4E4gwvWm9Q?usp=drive_link/synscape_test_annotation.json)  
 
-After Download these files, locate them in proper location
+After Download these files, locate them in proper location  
 location: "MLPD/src/synscapes_scripts/imagesets/"
 
